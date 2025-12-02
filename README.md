@@ -139,7 +139,7 @@ Continuous monitoring was recommended using ELK/Splunk with alerting rules.
 Attack Conclusion:
 This was a large-scale SSH brute-force attack aimed at gaining privileged access.
 
-👤 Author
+# Author
 Gresa Hisa (@gresium)
 AI & Cybersecurity Engineer
 GitHub: https://github.com/gresium
