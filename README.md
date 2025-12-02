@@ -3,7 +3,7 @@
 This repository contains a full forensic investigation of an SSH brute-force attack targeting a CentOS server.  
 The analysis includes username extraction, invalid user identification, cross-referencing with system accounts, security recommendations, and continuous monitoring practices.
 
-# 📌 1. Overview
+#  1. Overview
 
 A CentOS server experienced a high-volume brute-force attack against SSH.  
 This analysis was performed in Kali Linux using log files provided in the `secure` format.
@@ -15,7 +15,7 @@ The main objectives were:
 - Interpret the attack  
 - Recommend hardening and monitoring strategies  
 
-# 📁 2. Project Contents (All Inside This README)
+#  2. Project Contents (All Inside This README)
 
 This README includes:
 
@@ -28,14 +28,14 @@ This README includes:
 - Everything required for Simplilearn submission  
 
 
-# 🛠 3. Tools & Environment
+# 3. Tools & Environment
 
 - **Kali Linux**
 - **Bash utilities**: grep, awk, sort, uniq
 - **CentOS SSH logs** (`secure`, `secure-20240804`)
 - **Shell scripting** for system user comparison
 
-# 🔍 4. Log Preparation
+#  4. Log Preparation
 
 Move into log directory:
 
